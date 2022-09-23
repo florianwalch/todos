@@ -8,7 +8,7 @@ A running example is available [here](https://todos.florianwalch.de).
 > can be deleted at anytime. Please do not use it for something productive.  
 
 There is also a [Storybook](https://storybook.js.org) which can be found 
-[here](https://todos.florianwalch.de/storybook).
+[here](https://todos.florianwalch.de/storybook/index.html).
 
 ### Project structure:
 
