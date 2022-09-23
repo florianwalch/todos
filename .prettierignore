@@ -1,0 +1,9 @@
+.idea
+node_modules
+build
+coverage
+coverage-result
+amplify
+test/__snapshots__
+storybook-static
+

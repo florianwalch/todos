@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todos",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/florianwalch/Development/todos/amplify/backend/api/todos/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authtodos85c011ad"
+    },
+    "additionalAuthTypes": [],
+    "conflictResolution": {}
+  }
+}
